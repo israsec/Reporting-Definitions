@@ -1,0 +1,1 @@
+Allowing applications to run on rooted devices increases the chances that your app will be attacked by a malicious application on the user's phone. The potential impact may be data leakage from the victim application.
