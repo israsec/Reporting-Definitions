@@ -1,3 +1,2 @@
-The app has the setting android:usesCleartextTraffic=True in the AndroidManifest.xml  
-The AndroidManifest states and determines many permissions and configurations used by the Android app.  
-Using unencrypted traffic increases the chances that the information may be read by a 3rd party and negatively impacts the Confidentiality and Integrity of the data.
+The AndroidManifest.xml file states and determines many permissions and configurations used by the Android app. 
+The app has the setting android:usesCleartextTraffic=True in the AndroidManifest. This means that the application will accept connections using clear text HTTP and will not require the use of encrypted HTTPS. Using unencrypted traffic increases the chances that the information may be read by a 3rd party and negatively impacts the Confidentiality and Integrity of the data.
