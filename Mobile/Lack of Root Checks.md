@@ -1,0 +1,1 @@
+We discovered that the application does not perform root checks to see if it is running on a rooted mobile device. Security best practices maintain that an application should conduct root checks, otherwise a malicious application installed on the device may be able to interface with the victim application and cause unexpected behaviors.
