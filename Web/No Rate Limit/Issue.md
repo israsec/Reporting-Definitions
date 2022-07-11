@@ -1,3 +1,1 @@
-This is a test
-
-**No Rate Limit** is very bad.  bla,bla,bla
+The API is not protected against an excessive amount of rrequests or payload sizes. Attackers can use this to create a  Denial of Service (DoS) by overwhelming the API's resources and bandwidth. Additionally, an attacker may be able to abuse authentication flaws such as a brute force attack to obtain usernames and/or credentials.
