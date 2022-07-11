@@ -1,0 +1,1 @@
+Always export any components with an intent filter if possible, to limit which applications are able to interact with the specific component. If a component must be exported without any intent filters, ensure that the exported component is in no way sensitive and does not leak and information.
