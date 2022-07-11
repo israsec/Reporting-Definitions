@@ -1,0 +1,1 @@
+It is recommended to run a sophisticated root checking mechanism before allowing the app to run. There are several tools to help implement this although the Google SafetyNet Attestation API may be a good method of doing so. Please see the following for more information: https://www.indusface.com/learning/how-to-implement-root-detection-in-android-applications/
