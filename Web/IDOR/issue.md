@@ -1,2 +1,2 @@
 Insecure direct object references (IDOR) are a type of access control vulnerability that arises when an application uses user-supplied input to access objects directly.
-A classic example of this would be user 1 accessing an endpoint that belongs to user 2 by simply going to www.example.com/accouunts/user2. The endpoint /user2 is being called directly and without sufficient authentication measures. This vulnerability affects the confidentiality and integrity of data.
+A classic example of this would be user 1 accessing an endpoint that belongs to user 2 by simply going to www.example.com/accounts/user2. The endpoint /user2 is being called directly and without sufficient authentication measures. This vulnerability affects the confidentiality and integrity of data.
