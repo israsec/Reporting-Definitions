@@ -4,6 +4,5 @@ The password policy should contain the following complexity rules:
 •	The password policy should be enforced during password selection or alteration.  
 •	Not allow setting a password that contains guessable and simple patterns such as: Username, Password1, Aa1234565.
 
-Optional recommendations that would further enhance the strength of the password policy include:    
-•	Forcing users to change their password at least once every three months.   
+Optional recommendations that would further enhance the strength of the password policy include:      
 •	Providing the user with a visual indicator when they are creating passwords that illustrates password complexity and strength.  
