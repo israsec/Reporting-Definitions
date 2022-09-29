@@ -1,4 +1,4 @@
-Broken Acccess control is a broad security vulnerability that may allow a user to view or perform unauthorized activities in the target site. Essentially Broken Access control is the failure to properly ensure that a user is authorized to do what it is that they are doing. This can also include exposing sensitive pages to all users without any authentication needed at all.
+Broken Access control is a broad security vulnerability that may allow a user to view or perform unauthorized activities in the target site. Essentially Broken Access control is the failure to properly ensure that a user is authorized to do what it is that they are doing. This can also include exposing sensitive pages to all users without any authentication needed at all.
 
 Common access control vulnerabilities include:
 
