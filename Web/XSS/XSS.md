@@ -1,1 +1,1 @@
-XSS is *very very* bad!
+...in progress
